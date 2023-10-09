@@ -92,7 +92,7 @@ Content: [FOS-Release](#fos-release) - [FOS-Labor](#fos-labor) - [FOS-Inhaus](#f
  - HWR 240: [FRITZ.Repeater_600-07.51-105598-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/600/FRITZ.Repeater_600-07.51-105598-Inhaus.image)
  - HWR 249: [FRITZ.Powerline_1260-07.51-107011-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/1260/FRITZ.Powerline_1260-07.51-107011-Inhaus.image)
  - HWR 253: [FRITZ.Repeater_6000-07.51-106790-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/6000/FRITZ.Repeater_6000-07.51-106790-Inhaus.image)
- - HWR 256: [FRITZ.Box_7530_AX-07.70-108382-Inhaus.image](http://download.avm.de/inhaus/GoFiber23/7530AX/FRITZ.Box_7530_AX-07.70-108382-Inhaus.image)
+ - HWR 256: [FRITZ.Box_7530_AX-07.70-108539-Inhaus.image](http://download.avm.de/inhaus/GoFiber23/7530AX/FRITZ.Box_7530_AX-07.70-108539-Inhaus.image)
  - HWR 257: [FRITZ.Box_5530_Fiber-07.70-108535-Inhaus.image](http://download.avm.de/inhaus/GoFiber23/5530Fiber/FRITZ.Box_5530_Fiber-07.70-108535-Inhaus.image)
  - HWR 259: [FRITZ.Box_7590_AX-07.70-108541-Inhaus.image](http://download.avm.de/inhaus/GoFiber23/7590AX/FRITZ.Box_7590_AX-07.70-108541-Inhaus.image)
  - HWR 260: [FRITZ.Box_7583_VDSL-07.39-103078-LabBETA.image](http://download.avm.de/labor/MOVE21/7583VDSL/FRITZ.Box_7583_VDSL-07.39-103078-LabBETA.image)
