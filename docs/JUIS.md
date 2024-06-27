@@ -44,6 +44,7 @@ Content: [FOS-Release](#fos-release) - [FOS-Labor](#fos-labor) - [FOS-Inhaus](#f
  - HWR 222: [FRITZ.Powerline_1240E.150.07.16.image](http://download.avm.de/fritzpowerline/fritzpowerline-1240e/deutschland/fritz.os/FRITZ.Powerline_1240E.150.07.16.image)
  - HWR 223: [FRITZ.Box_5490-07.31.image](http://download.avm.de/fritzbox/fritzbox-5490/other/fritz.os/FRITZ.Box_5490-07.31.image)
  - HWR 225: [FRITZ.Box_7580-07.30.image](http://download.avm.de/fritzbox/fritzbox-7580/deutschland/fritz.os/FRITZ.Box_7580-07.30.image)
+ - HWR 226: [FRITZ.Box_7590-07.12.image](http://download.avm.de/firmware/7590/jz76373/7472573230/deutschland/fritz.os/FRITZ.Box_7590-07.12.image)
  - HWR 226: [FRITZ.Box_7590-07.59.image](http://download.avm.de/fritzbox/fritzbox-7590/deutschland/fritz.os/FRITZ.Box_7590-07.59.image)
  - HWR 227: [FRITZ.Box_4040-07.59.image](http://download.avm.de/fritzbox/fritzbox-4040/deutschland/fritz.os/FRITZ.Box_4040-07.59.image)
  - HWR 228: [FRITZ.Box_7582-07.17.image](http://download.avm.de/fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.17.image)
@@ -87,6 +88,7 @@ Content: [FOS-Release](#fos-release) - [FOS-Labor](#fos-labor) - [FOS-Inhaus](#f
 ### FOS-Inhaus
  - HWR 206: [FRITZ.Box_WLAN_Repeater_1750E-07.31-111633-Inhaus.image](http://download.avm.de/inhaus/WU22PSQ19/1750E/FRITZ.Box_WLAN_Repeater_1750E-07.31-111633-Inhaus.image)
  - HWR 226: [FRITZ.Box_7590-07.90-114107-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7590/FRITZ.Box_7590-07.90-114107-Inhaus.image)
+ - HWR 227: [FRITZ.Box_4040-07.90-114164-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/4040/FRITZ.Box_4040-07.90-114164-Inhaus.image)
  - HWR 236: [FRITZ.Box_7530-07.90-114101-Inhaus.image](http://download.avm.de/inhaus/Smart24P1/7530/FRITZ.Box_7530-07.90-114101-Inhaus.image)
  - HWR 240: [FRITZ.Repeater_600-07.57-111452-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/600/FRITZ.Repeater_600-07.57-111452-Inhaus.image)
  - HWR 249: [FRITZ.Powerline_1260-07.57-111465-Inhaus.image](http://download.avm.de/inhaus/MOVE21NL1/1260/FRITZ.Powerline_1260-07.57-111465-Inhaus.image)
@@ -136,7 +138,7 @@ Content: [FOS-Release](#fos-release) - [FOS-Labor](#fos-labor) - [FOS-Inhaus](#f
  - MHW 08.01: [08.01.04.93.avm.de.upd](http://download.avm.de/dect/0801/move21/08.01.04.93.avm.de.upd)
  - MHW 08.02: [08.02.04.94.avm.de.upd](http://download.avm.de/dect/0802/move21/08.02.04.94.avm.de.upd)
  - MHW 08.03: [08.03.04.94.avm.de.upd](http://download.avm.de/dect/0803/move21/08.03.04.94.avm.de.upd)
- - MHW 08.04: [08.04.05.04.avm.de.upd](http://download.avm.de/dect/0804/labor1/08.04.05.04.avm.de.upd)
+ - MHW 08.04: [08.04.05.05.avm.de.upd](http://download.avm.de/dect/0804/labor/08.04.05.05.avm.de.upd)
 
 ### Dect-Inhaus
 
